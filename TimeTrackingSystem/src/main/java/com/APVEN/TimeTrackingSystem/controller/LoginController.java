@@ -1,4 +1,4 @@
-package com.APVEN.TimeTrackingSystem.Controllers;
+package com.APVEN.TimeTrackingSystem.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
